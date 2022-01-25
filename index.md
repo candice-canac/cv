@@ -61,12 +61,11 @@
 ## Centres d'intérêt
 
 | Lecture  | Voyages |
-| ------------- |:-------------:|
 
 ## PAO
 
 | Photoshop  | Indesign |
-| ------------- |:-------------:|
+
 
 ## Mon Linkedin
 
